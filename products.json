@@ -1,0 +1,76 @@
+{ 
+    "items" : [
+    {
+        "sys": {"id" : "1"},
+        "fields" : {
+                "title" : "lipstick",
+                "price" : 499,
+                "image" : {"fields": {"file":{"url":"./images/product-1.jpg"}}}
+            }
+    },
+
+    {
+        "sys": {"id" : "2"},
+        "fields" : {
+        "title" : "lipstick",
+        "price" : 299,
+        "image" : {"fields": {"file":{"url":"./images/product-2.jpg"}}}
+        }
+    },
+
+    {
+        "sys": {"id" : "3"},
+        "fields" : {
+        "title" : "face powder",
+        "price" : 399,
+        "image" : {"fields": {"file":{"url":"./images/picture-9.jpg"}}}
+        }
+    },
+
+    {
+        "sys": {"id" : "1"},
+        "fields" : {
+        "title" : "face powder",
+        "price" : 199,
+        "image" : {"fields": {"file":{"url":"./images/picture-11.jpg"}}}
+        }
+    },
+
+    {
+        "sys": {"id" : "5"},
+        "fields" : {
+        "title" : "lipstick",
+        "price" : 349,
+        "image" : {"fields": {"file":{"url":"./images/product-5.jpg"}}}
+        }
+    },
+
+    {
+        "sys": {"id" : "6"},
+        "fields" : {
+        "title" : "perfume",
+        "price" : 349,
+        "image" : {"fields": {"file":{"url":"./images/product-4.jpg"}}}
+        }
+    },
+
+    {
+        "sys": {"id" : "5"},
+        "fields" : {
+        "title" : "cream",
+        "price" : 299,
+        "image" : {"fields": {"file":{"url":"./images/product-3.jpg"}}}
+        }
+    },
+
+    {
+        "sys": {"id" : "5"},
+        "fields" : {
+        "title" : "face powder",
+        "price" : 149,
+        "image" : {"fields": {"file":{"url":"./images/picture-10.jpg"}}}
+        }
+    }
+    
+  ]
+}
